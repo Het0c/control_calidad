@@ -1,4 +1,8 @@
 "# simple-stock" 
+Todos los derechos a su autor. su utilizacion es por mero aprendizaje.
+atte Het0c.
+
+
 
 Simple Stock (Inventario Simple) es un sistema web desarrollado con PHP, MySQL y Bootstrap, que cubre una serie de 
 requerimientos básicos para llevar el control del inventario de una empresa o negocio. Esta es  una solución sencilla 
